@@ -1,0 +1,4 @@
+public class basic{
+public Static void main(String args[]){
+System.out.println("WELCOME TO EDUNET TRAINIG");
+}
